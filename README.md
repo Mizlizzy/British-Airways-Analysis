@@ -13,3 +13,4 @@ Recommended: Binary indicator reflecting whether the traveler would recommend Br
 Route: Information about the specific route or flight taken by the passengers, providing context to their reviews and experiences.
 # Analysis
 ![image](https://github.com/Mizlizzy/British-Airways-Analysis/assets/125541494/d42ef129-73b2-4274-b146-06a699b902b1)
+# Recommendation
