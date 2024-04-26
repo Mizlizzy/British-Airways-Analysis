@@ -2,7 +2,7 @@
 British Airways passengers review insights on passengers review and Travellers experience (2016 -2023) or learning purpose only.
 British Airways, one of the world's leading airlines, has been synonymous with excellence and reliability for decades. With a rich history and a commitment to providing exceptional customer experiences, British Airways continues to be a preferred choice for travelers worldwide.
 British Airways is looking to improve its customer satisfaction and retention rates. The airline wants to understand what factors are most important to customers and how it can improve its services in these areas.
-# Datase Description
+# Datbase Description
 Reviews: Text-based feedback and reviews provided by customers after their experience with British Airways.
 Date: The date on which the review was posted by the customer, providing temporal information.
 Stars: Rating given by the traveler on a scale of 1 to 5 stars, indicating their overall satisfaction with the airline's services.
