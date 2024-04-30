@@ -1,7 +1,10 @@
 # British-Airways-Analysis
+# Introduction
 British Airways passengers review insights on passengers review and Travellers experience (2016 -2023) for learning purpose only.
 British Airways, one of the world's leading airlines, has been synonymous with excellence and reliability for decades. With a rich history and a commitment to providing exceptional customer experiences, British Airways continues to be a preferred choice for travelers worldwide.
 British Airways is looking to improve its customer satisfaction and retention rates. The airline wants to understand what factors are most important to customers and how it can improve its services in these areas.
+# Disclaimer
+All datasets and reports do not represent any company, institution or country. All info are dummy set to demonstrate my capabilities
 # Database Description
 Reviews: Text-based feedback and reviews provided by customers after their experience with British Airways.
 Date: The date on which the review was posted by the customer, providing temporal information.
@@ -14,4 +17,3 @@ Route: Information about the specific route or flight taken by the passengers, p
 # Analysis
 ![image](https://github.com/Mizlizzy/British-Airways-Analysis/assets/125541494/d42ef129-73b2-4274-b146-06a699b902b1)
 
-# Recommendation
